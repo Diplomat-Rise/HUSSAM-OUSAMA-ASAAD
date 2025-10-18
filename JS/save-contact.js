@@ -7,7 +7,7 @@ VERSION:3.0
 FN:HUSSAM OUSAMA ASAAD 
 TITLE:Sales Manager
 ORG:RISE Properties
-TEL;TYPE=WORK,VOICE:+971525572118
+TEL;TYPE=WORK,VOICE:+971589826204
 TEL;TYPE=WORK,VOICE:+971589826204
 EMAIL:Ahmed.Uzair@riseproperties.ae
 URL:http://www.riseproperties.ae
@@ -31,3 +31,4 @@ document.querySelector('.save-contact-button').addEventListener('click', functio
   e.preventDefault();
   downloadVCard();
 });
+
